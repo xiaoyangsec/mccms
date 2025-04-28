@@ -37,6 +37,7 @@ Example：
 Craft and Send the Malicious Request: Using poc.py, modify the pic parameter to point to http://127.0.0.1:3306 to probe for the internal MySQL database port, or use file://C:/Windows/win.ini to attempt reading the win.ini file.
 
 Screenshot: Below is a screenshot showing the successful exploitation of the SSRF vulnerability.
-![image](https://github.com/user-attachments/assets/c0159c50-0022-4d4b-93ed-482bfae4412e)
-![image](https://github.com/user-attachments/assets/00f9ca98-c344-461a-8061-deadd42f8061)
+![image](https://github.com/user-attachments/assets/62c2fddb-dbe7-4922-a5c1-c999d4a44d26)
+
+![image](https://github.com/user-attachments/assets/016ba69e-156a-402f-9047-c7fe44cd9de3)
 
